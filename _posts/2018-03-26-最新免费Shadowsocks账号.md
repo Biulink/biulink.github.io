@@ -9,8 +9,6 @@ tags: '免费Shadowsocks账号发布'
 author: biulink
 ---
 
-# 2018-03-26最新**免费Shadowsocks账号**
-
 2018-03-26最新发布的**免费Shadowsocks账号**。
 
 如果您需要自己的专属账号，请到[https://pro.biulink.xyz](https://pro.biulink.xyz)注册，将直接获取一周的**免费Shadowsocks账号**。
