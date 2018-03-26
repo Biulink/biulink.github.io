@@ -9,7 +9,7 @@
 title: Biulink-免费Shadowsocks 
 email: biulink@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  每天都会更新的免费Shadowsocks分享网站.
+  2018最新的免费Shadowsocks分享网站.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://biulink.github.io" # the base hostname & protocol for your site
