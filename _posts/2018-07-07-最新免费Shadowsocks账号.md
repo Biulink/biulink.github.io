@@ -19,18 +19,18 @@ author: biulink
 
   优势1: 独享一台Shadowsocks服务器，不与其他用户共享资源。
 
-  优势2: 配备CN2专线，Youtube 1080p无压力。
+  优势2: 配备CN2专线，默认自带BBR加速算法，Youtube 1080p无压力。
 
   优势3: 支持一键换IP地址，不用担心被封。
 
   优势4: 比直接买SS账号B格略高 🙂
 
   费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK  
-## 免费Shadowsocks账号1
+## 免费Shadowsocks账号1（搬瓦工测试账号）
 
 地址：bandwagon1.biulink.club
 
-端口：20575
+端口：20478
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-07%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -38,13 +38,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-07-08 00:00:16
+过期时间：2018-07-08 20:24:59
 
 ## 免费Shadowsocks账号2
 
 地址：sg1.biulink.club
 
-端口：20575
+端口：20478
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-07%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -52,13 +52,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-07-08 00:00:16
+过期时间：2018-07-08 20:24:59
 
 ## 免费Shadowsocks账号3
 
 地址：hk1.biulink.club
 
-端口：20575
+端口：20478
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-07%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -66,13 +66,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-07-08 00:00:16
+过期时间：2018-07-08 20:24:59
 
 ## 免费Shadowsocks账号4
 
 地址：jp1.biulink.club
 
-端口：20575
+端口：20478
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-07%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -80,13 +80,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-07-08 00:00:16
+过期时间：2018-07-08 20:24:59
 
 ## 免费Shadowsocks账号5
 
 地址：us1.biulink.club
 
-端口：20575
+端口：20478
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-07-07%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -94,5 +94,5 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-07-08 00:00:16
+过期时间：2018-07-08 20:24:59
 
