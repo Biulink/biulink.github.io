@@ -28,9 +28,9 @@ author: biulink
   费用: 最低每月16元，本站还提供9.4折优惠码:BWH1ZBPVK  
 ## 免费Shadowsocks账号1
 
-地址：sg1.biulink.club
+地址：sg1.biulink.vip
 
-端口：20073
+端口：20636
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-09-19%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -38,13 +38,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-09-20 08:55:54
+过期时间：2018-09-20 09:06:21
 
 ## 免费Shadowsocks账号2
 
-地址：hk1.biulink.club
+地址：hk1.biulink.vip
 
-端口：20073
+端口：20636
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-09-19%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -52,13 +52,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-09-20 08:55:54
+过期时间：2018-09-20 09:06:21
 
 ## 免费Shadowsocks账号3
 
-地址：jp1.biulink.club
+地址：jp1.biulink.vip
 
-端口：20073
+端口：20636
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-09-19%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -66,13 +66,13 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-09-20 08:55:54
+过期时间：2018-09-20 09:06:21
 
 ## 免费Shadowsocks账号4
 
-地址：us1.biulink.club
+地址：us1.biulink.vip
 
-端口：20073
+端口：20636
 
 密码：[点击查看](https://github.com/Biulink/ShadowsocksTutorials/blob/master/publish/2018-09-19%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9Shadowsocks%E8%B4%A6%E5%8F%B7.md)
 
@@ -80,5 +80,5 @@ author: biulink
 
 流量：25GB
 
-过期时间：2018-09-20 08:55:54
+过期时间：2018-09-20 09:06:21
 
